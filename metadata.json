@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake",
+  "description": "A visually stunning cyberpunk classic Snake game with customizable power-ups, multiple boards, dynamic obstacles, particle effects, synth music, and local multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
