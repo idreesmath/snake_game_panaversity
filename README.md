@@ -7,6 +7,7 @@
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/2b853eb6-5b3f-4273-99f1-c5d8d96342c2
+
 Launch App: https://snake-game-375070032545.asia-southeast1.run.app/
 
 ## Run Locally
